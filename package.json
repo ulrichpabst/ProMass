@@ -4,6 +4,7 @@
   "description": "A VSCode extension for convenient peptide mass calculations.",
   "version": "0.0.1",
   "publisher": "UlrichPabst",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.95.0"
   },
